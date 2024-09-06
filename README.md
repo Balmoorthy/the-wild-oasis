@@ -77,11 +77,11 @@ To run the Wild Oasis app locally:
    ```
 3. Build command::
    ```bash
-   npm install
+   npm run build
    ```
 4. Live server:
    ```bash
-   npm install
+   npm run dev
    ```
 
 ## Author
