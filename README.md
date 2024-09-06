@@ -3,6 +3,7 @@
 # The Wild Oasis Hotel Management App
 
 [View Demo](https://the-hotel-wild-oasis-demo.vercel.app/)
+- <a href="https://the-hotel-wild-oasis-demo.vercel.app" target="_blank">View</a>
 
 The Wild Oasis is a comprehensive hotel management application designed for hotel employees to manage cabins, bookings, and guests. It utilizes advanced React techniques and integrates with Supabase for backend services to provide a streamlined and efficient tool for hotel operations.
 
