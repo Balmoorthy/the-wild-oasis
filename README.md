@@ -89,6 +89,6 @@ To run the Wild Oasis app locally:
 Bal Moorthy:
 
 - [**Github**] - (`https://github.com/Balmoorthy`)
-- [**LinkedIn**] - (`https://www.linkedin.com/in/bal-moorthy/`)
+- [**LinkedIn**] - (https://www.linkedin.com/in/bal-moorthy/)
 
 Feel free to contact me with any questions or feedback!
