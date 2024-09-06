@@ -13,7 +13,6 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
 - [What I Learned](#what-i-learned)
 - [Installation](#installation)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Key Features
 
@@ -63,6 +62,8 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
 - **Version Control**: Managed project changes with Git.
 - **Project Management**: Planned and managed a large-scale project effectively.
 
+By building "The Wild Oasis" project with these technologies and concepts, I've developed a comprehensive set of skills and knowledge that can be applied to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also improved my problem-solving capabilities.
+
 ## Installation
 
 To run the Wild Oasis app locally:
@@ -87,6 +88,7 @@ To run the Wild Oasis app locally:
 ## Author
 
 Bal Moorthy:
+
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bal-moorthy/)
 
 Feel free to contact me with any questions or feedback!
