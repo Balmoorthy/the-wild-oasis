@@ -5,7 +5,6 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
 ## Table of Contents
 
 - [Key Features](#key-features)
-- [My Process](#my-process)
 - [Built With](#built-with)
 - [What I Learned](#what-i-learned)
 - [Installation](#installation)
@@ -30,14 +29,6 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
   - Visualize daily sales (total and extras) and stay durations with charts.
 - **Application-wide Settings**: Configure breakfast price, minimum and maximum nights per booking, and maximum guests per booking.
 - **Dark Mode**: Personalized visual experience with dark mode.
-
-## My Process
-
-1. **Requirement Gathering**: Defined features and user needs.
-2. **Design**: Created wireframes and UI/UX designs.
-3. **Implementation**: Developed the app with React and Supabase.
-4. **Testing**: Performed testing to ensure functionality and user experience.
-5. **Deployment**: Deployed the application and ensured production readiness.
 
 ## Built With
 
@@ -74,5 +65,24 @@ To run the Wild Oasis app locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/the-wild-oasis.git
+   git clone https://github.com/Balmoorthy/the-wild-oasis.git
    ```
+2. Install dependencies::
+   ```bash
+   npm install
+   ```
+3. Build command::
+   ```bash
+   npm install
+   ```
+4. Live server:
+   ```bash
+   npm install
+   ```
+
+## Author
+
+Bal Moorthy:
+
+- [**Github**] - (`https://github.com/Balmoorthy`)
+- **LinkedIn** - [https://www.linkedin.com/in/bal-moorthy/]
