@@ -64,7 +64,7 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
 - **Version Control**: Managed project changes with Git.
 - **Project Management**: Planned and managed a large-scale project effectively.
 
-By building "The Wild Oasis" project with these technologies and concepts, I've developed a comprehensive set of skills and knowledge that can be applied to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also improved my problem-solving capabilities.
+By building "The Wild Oasis" project with these technologies and concepts, I have developed a comprehensive set of skills and knowledge applicable to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also enhanced my problem-solving capabilities.
 
 ## Installation
 
