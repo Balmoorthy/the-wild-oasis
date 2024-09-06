@@ -1,6 +1,10 @@
+![Logo](./public/logo-dark.png)
+
 # The Wild Oasis Hotel Management App
 
 The Wild Oasis is a comprehensive hotel management application designed for hotel employees to manage cabins, bookings, and guests. It utilizes advanced React techniques and integrates with Supabase for backend services to provide a streamlined and efficient tool for hotel operations.
+
+![Home Page](./public/thumbnail-preview.png)
 
 ## Table of Contents
 
@@ -85,4 +89,6 @@ To run the Wild Oasis app locally:
 Bal Moorthy:
 
 - [**Github**] - (`https://github.com/Balmoorthy`)
-- **LinkedIn** - [https://www.linkedin.com/in/bal-moorthy/]
+- [**LinkedIn**] - (`https://www.linkedin.com/in/bal-moorthy/`)
+
+Feel free to contact me with any questions or feedback!
