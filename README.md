@@ -9,14 +9,6 @@ The Wild Oasis is a comprehensive hotel management application designed for hote
 ![Home Page](./public/thumbnail-preview.png)
 
 
-## Test Account
-
-You can access our application using the following demo account:
-
-**email**: bala@example.com
-
-**password**: bala123
-
 ## Table of Contents
 
 - [Key Features](#key-features)
